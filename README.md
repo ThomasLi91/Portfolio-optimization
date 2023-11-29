@@ -1,4 +1,6 @@
-# Portfolio-optimization
+# Portfolio-optimization (Public Version)
+
+My internship project at Cubist Systematic Strategies (Point72) in New York.
 
 We first show how most of the current deep learning portfolio optimization networks are flawed and we pioneer the correct way to build a permuation equivariant neural network (deepsets) suited for this task. We will then combine this novel idea with the use of differentiable convex optimization layers to help the network to learn to optimize the weights with less data and making it more
 robust to noisy data. Our permuation equivariant networks all outperform current deeplearning models and when paired with the right optimization layer,
