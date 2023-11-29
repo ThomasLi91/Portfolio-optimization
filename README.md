@@ -5,3 +5,8 @@ robust to noisy data. Our permuation equivariant networks all outperform current
 it is truly able to pick up non linear correlations between assets and beat by
 a significant margin popular benchmarks used today such as Markowitz with
 shrinkage [23], risk parity [36] and uniform allocation [9]
+
+Major contributions to the package Deepdow : https://deepdow.readthedocs.io/en/latest/
+
+![image](https://github.com/ThomasLi91/Portfolio-optimization/assets/96530384/d2d363d7-258c-4f7c-9321-2d99c8a8c788)
+
