@@ -7,7 +7,7 @@ approach remains a ”greedy” approach, where inaccuracies in parameter estima
 novel approach that integrates prediction and optimization tasks within a single neural network, enabling an end-to-end solution where portfolio allocation
 is directly learned from the raw input features which usually are the historical
 returns of assets. We first show how most of the current deep learning portfolio
-optimization networks are flawed and we pioneer the correct way to build a permuation equivariant neural network suited for this task. We will then combine
+optimization networks are flawed and we pioneer the correct way to build a permuation equivariant neural network (deepsets) suited for this task. We will then combine
 this novel idea with the use of differentiable convex optimization layers to help
 the network to learn to optimize the weights with less data and making it more
 robust to noisy data. Our permuation equivariant networks all outperform current deeplearning models and when paired with the right optimization layer,
